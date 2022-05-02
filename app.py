@@ -1,7 +1,8 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-import tensorflow.keras as keras
+import tensorflow as tf
+from tensorflow.keras import models, layers
 import matplotlib.pyplot as plt
 import tensorflow_hub as hub
 
