@@ -45,7 +45,7 @@ def predict_class(image) :
     final_pred = class_name[np.argmax(prediction)]
     return final_pred, confidence
 
-footer = """
+footer = 
 a:link , a:visited{
     color: white;
     background-color: transparent;
