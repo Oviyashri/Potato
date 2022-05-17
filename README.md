@@ -1,6 +1,6 @@
 **Potato disease classification**
 
-This project is to detect or identify potato leaf diseases, having a variety of illnesses. Because our nakeclassify them, but Convolutional Neural Network can easily.
+This project is to detect or identify potato leaf diseases, having a variety of illnesses. Because our naked eyes can't classify them, but Convolutional Neural Network can easily.
 
 **Problem Statement**
 
